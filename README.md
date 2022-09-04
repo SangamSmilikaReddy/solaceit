@@ -1,6 +1,7 @@
 # solaceit
 “soLACE it” aims to improve the user’s mental health by providing a safe space to speak about their problems with no fear of judgement. It also ensures privacy and security of user data.
 ## LINKS
+[Design](https://www.figma.com/file/TDBliE6PWJMoNHEtsEJ660/Untitled?node-id=0%3A1)
 [PPT](https://docs.google.com/presentation/d/1nYNJkuz6zKDpn4iN3MB9c7PvKwNl1nOqAEzjAUdaCq4/edit?usp=sharing)
 [Deployment](https://example.com)
 ## Overview
